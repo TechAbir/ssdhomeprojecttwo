@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.header {
+  height: 60px;
+  border-bottom: 1px solid rgb(199, 199, 199);
+}
+.header img {
+  width: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+}
+.main h3 {
+  width: 65%;
+  font-size: 28px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.colorSky {
+  color: #4885ed;
+}
+.colorRed {
+  color: #db3236;
+}
+.colorGreen {
+  color: #3cba54;
+}
+.colorYellow {
+  color: #f6cd39;
+}
+
+.main img {
+  max-width: 100%;
+}
+
+.main h2 {
+  width: 25%;
+  font-size: 26px;
+}
+.main p {
+  color: rgb(199, 199, 199);
+}
+.footerArea {
+  height: 200px;
+  background-color: #0ca26d;
+  color: white;
+}
+.footerArea h1 {
+  padding: 35px;
+  font-size: 40px;
+  text-align: center;
+}
